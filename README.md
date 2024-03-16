@@ -10,7 +10,9 @@
 
 ### 开发计划
 
+* [ ] Deploy to the [PyPI](pypi.org) as a python site-packages.
 * [ ] 引入pyicloud的PR列表中优秀却还未被合并采纳的一些出色的PR
+
 
 
 ### 引用& 鸣谢
