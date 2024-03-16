@@ -8,6 +8,11 @@
 * [iCloudDesktop](https://github.com/Haoke98/iCloudDesktop)
 * [django-icloud](https://github.com/Haoke98/iCloudDjangoApp)
 
+### 开发计划
+
+* [ ] 引入pyicloud的PR列表中优秀却还未被合并采纳的一些出色的PR
+
+
 ### 引用& 鸣谢
 
 * thanks to [picklepete](https://github.com/picklepete) for [pyicloud](https://github.com/picklepete/pyicloud)
